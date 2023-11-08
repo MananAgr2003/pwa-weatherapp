@@ -1,0 +1,16 @@
+{
+    "short_name" : "Manans Weather App",
+    "name" : "Manans Weather App PWA",
+    "icons" : [
+        {
+            "src" : "/images/logo.png",
+            "types" : "image/png",
+            "sizes" : "192x192"
+        }
+    ],
+    "start_url" : ".",
+    "display" : "standalone",
+    "theme_color" : "#000000",
+    "background_color" : "#ffffff"
+
+}
